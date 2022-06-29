@@ -53,10 +53,8 @@ public class AlgoritmoSequenciaProva {
                 ultimoNumero = n;
             }
         }
-
         return retorno;
     }
-	
 	
 	public String formataQuandoSequencia(String texto, int novoNumeroSequencia, boolean inicioSequencia){
         if(inicioSequencia){
